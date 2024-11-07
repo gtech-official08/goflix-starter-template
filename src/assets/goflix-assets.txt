@@ -1,0 +1,23 @@
+
+Navbar Profile Image:
+
+imgUrl:- https://cdn.pixabay.com/photo/2024/05/14/09/26/ai-generated-8760744_1280.png
+
+
+
+Continue watching Images
+
+img1Url:- https://cdn.pixabay.com/photo/2020/05/19/00/21/background-5188867_1280.jpg
+
+
+img2Url:- https://cdn.pixabay.com/photo/2016/11/15/07/09/photo-manipulation-1825450_1280.jpg
+
+
+img3Url:- https://cdn.pixabay.com/photo/2019/02/09/14/01/man-3985195_1280.jpg
+
+
+img4Url:- https://cdn.pixabay.com/photo/2015/05/29/07/39/dark-788997_1280.jpg
+
+
+img5Url:- https://cdn.pixabay.com/photo/2015/05/29/07/39/dark-788997_1280.jpg
+
