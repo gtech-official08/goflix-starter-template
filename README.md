@@ -1,5 +1,5 @@
 
-# Online Bus Ticket Booking System (starter template)
+# Goflix Movie Website (Netflix Clone) (starter template)
 
 This is just a starter template containing Navbar. And also installed the required resources like react-router-dom react icons, and other basic requirements.
 
@@ -75,7 +75,7 @@ Live Demo:-
 
 
 ### Full Video Tutorial
-Video Link:- https://www.youtube.com/watch?v=1Guddi2MbOM 
+Video Link:- https://youtu.be/LL9pIo_cp2A
 
 
 ## Author
